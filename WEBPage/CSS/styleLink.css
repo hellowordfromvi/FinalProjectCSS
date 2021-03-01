@@ -1,0 +1,23 @@
+a{
+	display: block;
+	text-align: center;
+	background-color: blue;
+	color: white;
+	width: 100px;
+	height: 50px;
+	font-size: 65%;
+	padding: 5px;
+	margin: 0 auto;
+	margin-top: 5px;
+}
+a:hover{
+	background: #B3B3B3;
+    color: #0006CC;
+}
+a:focus{
+	background: #B3B3B3;
+    color: #0006CC;
+}
+a:active{
+	border: 1px solid #000000;
+}

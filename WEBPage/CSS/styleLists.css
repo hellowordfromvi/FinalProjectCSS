@@ -1,0 +1,12 @@
+div{
+	display: inline-block;
+	background-color: #e6dbbe;
+	padding-left: 5px;
+	padding-right: 10px;
+}
+ul{
+	list-style-type: upper-roman;
+}
+ol{
+	list-style-type: upper-roman;
+}

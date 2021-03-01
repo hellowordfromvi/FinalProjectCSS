@@ -1,0 +1,20 @@
+@font-face{
+	font-family: SanfranciscoThin;
+	src: url('font/SanFranciscoDisplay-Thin.otf');
+}
+@font-face{
+	font-family: SanfranciscoBold;
+	src: url('font/SanFranciscoDisplay-Bold.otf');
+}
+h1, header{
+	background-color: #b2c9ed; 
+	font-family: SanfranciscoBold;
+	text-align: center;
+	text-transform: uppercase;
+}
+a, p, h2, html{
+	font-family: SanfranciscoThin;
+}
+img{
+	display: none;
+}

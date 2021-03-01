@@ -1,0 +1,61 @@
+@font-face{
+	font-family: SanfranciscoThin;
+	src: url('font/SanFranciscoDisplay-Thin.otf');
+}
+@font-face{
+	font-family: SanfranciscoLight;
+	src: url('font/SanFranciscoDisplay-Light.otf');
+}
+body{
+	background-color: #ebd7d5;
+	margin: 10px;
+}
+.half{
+	width: 45%;
+	display: inline-block;
+	float: left;
+	margin: 1.5%;
+	padding-top: 0;
+	padding-bottom: 10px;
+}
+.whole{
+	clear: both;
+	margin: 1.5%;
+	padding-top: 0;
+	padding-bottom: 10px;
+}
+header, footer{
+	text-align: center;
+	font-family: SanfranciscoLight;
+	background-color: #c7a09d;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background: linear-gradient(#946d6a 0%, #c7a09d 100%);
+}
+h2{
+	font-family: SanfranciscoLight;
+	background-color: #946d6a;
+	padding-top: 0;
+	margin: 0;
+}
+a{
+	margin-bottom: 10px;
+	beac
+}
+html{
+	font-family: SanfranciscoThin;
+}
+nav a{
+	display: inline-block;
+	width: 20%;
+	height: 30px;
+	padding: 10px;
+	background-color: #946d6a;
+	margin: 5px;
+}
+footer{
+	clear: both;
+}
+img{
+	width: 35px;
+}
